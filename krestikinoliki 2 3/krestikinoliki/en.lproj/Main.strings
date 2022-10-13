@@ -1,0 +1,87 @@
+
+/* Class = "UITextView"; text = "*** GAME RULES***\n\nThe game is played on a grid that's 3 squares by 3 squares.\nYou are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.\nThe first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.\nWhen all 9 squares are full, the game is over."; ObjectID = "1yx-9B-BaK"; */
+"1yx-9B-BaK.text" = "*** GAME RULES***\n\nThe game is played on a grid that's 3 squares by 3 squares.\nYou are X, your friend (or the computer in this case) is O. Players take turns putting their marks in empty squares.\nThe first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.\nWhen all 9 squares are full, the game is over.";
+
+/* Class = "UILabel"; text = "TIC TAC "; ObjectID = "2wo-KC-7rp"; */
+"2wo-KC-7rp.text" = "TIC TAC ";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "3DA-6l-jcC"; */
+"3DA-6l-jcC.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3DA-6l-jcC"; */
+"3DA-6l-jcC.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "47E-Zk-TJF"; */
+"47E-Zk-TJF.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "47E-Zk-TJF"; */
+"47E-Zk-TJF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7WQ-yf-pJ4"; */
+"7WQ-yf-pJ4.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "EiR-A3-3PD"; */
+"EiR-A3-3PD.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EiR-A3-3PD"; */
+"EiR-A3-3PD.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "FFd-gu-fM1"; */
+"FFd-gu-fM1.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FFd-gu-fM1"; */
+"FFd-gu-fM1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M1J-gN-fNW"; */
+"M1J-gN-fNW.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "Close"; ObjectID = "Qev-f3-CUE"; */
+"Qev-f3-CUE.configuration.title" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qev-f3-CUE"; */
+"Qev-f3-CUE.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "Rrg-Mi-SU9"; */
+"Rrg-Mi-SU9.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Rrg-Mi-SU9"; */
+"Rrg-Mi-SU9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "SsX-RW-3CX"; */
+"SsX-RW-3CX.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SsX-RW-3CX"; */
+"SsX-RW-3CX.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dnD-mO-Obk"; */
+"dnD-mO-Obk.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Close"; ObjectID = "hT4-2X-kf9"; */
+"hT4-2X-kf9.configuration.title" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hT4-2X-kf9"; */
+"hT4-2X-kf9.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "hXH-l3-SUJ"; */
+"hXH-l3-SUJ.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hXH-l3-SUJ"; */
+"hXH-l3-SUJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Choose your button"; ObjectID = "haK-f1-fRB"; */
+"haK-f1-fRB.text" = "Choose your button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "m3y-zS-4tM"; */
+"m3y-zS-4tM.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "m3y-zS-4tM"; */
+"m3y-zS-4tM.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "sjg-WO-7HA"; */
+"sjg-WO-7HA.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sjg-WO-7HA"; */
+"sjg-WO-7HA.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wAU-f8-Pmc"; */
+"wAU-f8-Pmc.normalTitle" = "Button";

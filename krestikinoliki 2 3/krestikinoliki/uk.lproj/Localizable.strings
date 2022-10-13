@@ -1,0 +1,9 @@
+/*
+  Localizable.strings
+  Localized
+
+  Created by Dmytro Gavrylov on 08.08.2022.
+  
+*/
+"TICTAC" = "Хрестики нолики"
+"Cbutton" = "Вибери свою кнопку"
